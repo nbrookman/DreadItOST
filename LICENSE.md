@@ -1,4 +1,4 @@
-Shield: [![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
+[![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
 
 DreadItOST © 2024 by Nathan Brookman is licensed under a
 [Creative Commons Attribution-NoDerivs 4.0 International License][cc-by-nd].
